@@ -1,9 +1,10 @@
 
+import validateMeasurementRequest from '../../hooks/validate-measurement-request';
 export default {
   before: {
     all: [],
     find: [],
-    get: [],
+    get: [validateMeasurementRequest()],
     create: [],
     update: [],
     patch: [],
