@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "fileName": "20200227T181309Z.meta",
+    "size": 10154
+  },
+  "limited": false,
+  "files": [
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 131,
+      "fileName": "20200227T181309Z.s131.tar.gz",
+      "size": 526848,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 143,
+      "fileName": "20200227T181309Z.s143.tar.gz",
+      "size": 696320,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 154,
+      "fileName": "20200227T181309Z.s154.tar.gz",
+      "size": 702464,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 165,
+      "fileName": "20200227T181309Z.s165.tar.gz",
+      "size": 711168,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 176,
+      "fileName": "20200227T181309Z.s176.tar.gz",
+      "size": 706560,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 187,
+      "fileName": "20200227T181309Z.s187.tar.gz",
+      "size": 702464,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 198,
+      "fileName": "20200227T181309Z.s198.tar.gz",
+      "size": 698880,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 209,
+      "fileName": "20200227T181309Z.s209.tar.gz",
+      "size": 714240,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 220,
+      "fileName": "20200227T181309Z.s220.tar.gz",
+      "size": 711680,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 231,
+      "fileName": "20200227T181309Z.s231.tar.gz",
+      "size": 723456,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 242,
+      "fileName": "20200227T181309Z.s242.tar.gz",
+      "size": 716288,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 253,
+      "fileName": "20200227T181309Z.s253.tar.gz",
+      "size": 726016,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 264,
+      "fileName": "20200227T181309Z.s264.tar.gz",
+      "size": 714240,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 275,
+      "fileName": "20200227T181309Z.s275.tar.gz",
+      "size": 713216,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 286,
+      "fileName": "20200227T181309Z.s286.tar.gz",
+      "size": 709632,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 297,
+      "fileName": "20200227T181309Z.s297.tar.gz",
+      "size": 714240,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 308,
+      "fileName": "20200227T181309Z.s308.tar.gz",
+      "size": 714752,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 319,
+      "fileName": "20200227T181309Z.s319.tar.gz",
+      "size": 714240,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 331,
+      "fileName": "20200227T181309Z.s331.tar.gz",
+      "size": 709632,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 343,
+      "fileName": "20200227T181309Z.s343.tar.gz",
+      "size": 703488,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 355,
+      "fileName": "20200227T181309Z.s355.tar.gz",
+      "size": 160768,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 367,
+      "fileName": "20200227T181309Z.s367.tar.gz",
+      "size": 143360,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 379,
+      "fileName": "20200227T181309Z.s379.tar.gz",
+      "size": 137728,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 391,
+      "fileName": "20200227T181309Z.s391.tar.gz",
+      "size": 355328,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 403,
+      "fileName": "20200227T181309Z.s403.tar.gz",
+      "size": 694784,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 415,
+      "fileName": "20200227T181309Z.s415.tar.gz",
+      "size": 715264,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 427,
+      "fileName": "20200227T181309Z.s427.tar.gz",
+      "size": 716800,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 439,
+      "fileName": "20200227T181309Z.s439.tar.gz",
+      "size": 626176,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 451,
+      "fileName": "20200227T181309Z.s451.tar.gz",
+      "size": 716288,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 463,
+      "fileName": "20200227T181309Z.s463.tar.gz",
+      "size": 708096,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 475,
+      "fileName": "20200227T181309Z.s475.tar.gz",
+      "size": 698880,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 487,
+      "fileName": "20200227T181309Z.s487.tar.gz",
+      "size": 684544,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 499,
+      "fileName": "20200227T181309Z.s499.tar.gz",
+      "size": 667136,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 511,
+      "fileName": "20200227T181309Z.s511.tar.gz",
+      "size": 629760,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 523,
+      "fileName": "20200227T181309Z.s523.tar.gz",
+      "size": 589312,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 535,
+      "fileName": "20200227T181309Z.s535.tar.gz",
+      "size": 533504,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 547,
+      "fileName": "20200227T181309Z.s547.tar.gz",
+      "size": 579072,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 560,
+      "fileName": "20200227T181309Z.s560.tar.gz",
+      "size": 713216,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 573,
+      "fileName": "20200227T181309Z.s573.tar.gz",
+      "size": 717824,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 586,
+      "fileName": "20200227T181309Z.s586.tar.gz",
+      "size": 725504,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 599,
+      "fileName": "20200227T181309Z.s599.tar.gz",
+      "size": 721408,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 612,
+      "fileName": "20200227T181309Z.s612.tar.gz",
+      "size": 720384,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 625,
+      "fileName": "20200227T181309Z.s625.tar.gz",
+      "size": 709632,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 638,
+      "fileName": "20200227T181309Z.s638.tar.gz",
+      "size": 708096,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 651,
+      "fileName": "20200227T181309Z.s651.tar.gz",
+      "size": 708608,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 664,
+      "fileName": "20200227T181309Z.s664.tar.gz",
+      "size": 654336,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 677,
+      "fileName": "20200227T181309Z.s677.tar.gz",
+      "size": 699904,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 690,
+      "fileName": "20200227T181309Z.s690.tar.gz",
+      "size": 707584,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 703,
+      "fileName": "20200227T181309Z.s703.tar.gz",
+      "size": 684544,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 716,
+      "fileName": "20200227T181309Z.s716.tar.gz",
+      "size": 719360,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 729,
+      "fileName": "20200227T181309Z.s729.tar.gz",
+      "size": 572416,
+      "lastModified": 0
+    },
+    {
+      "database": "smart-campus",
+      "policy": "autogen",
+      "shardID": 742,
+      "fileName": "20200227T181309Z.s742.tar.gz",
+      "size": 234496,
+      "lastModified": 0
+    }
+  ]
+}
