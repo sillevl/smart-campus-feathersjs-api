@@ -4,13 +4,17 @@ import { Hook, HookContext } from '@feathersjs/feathers';
 import { NotFound, GeneralError, BadRequest } from '@feathersjs/errors';
 import { hooks } from '@feathersjs/authentication/lib';
 
+import { Sensor, Period } from '../lib/measurements/parameters'
+
 export default (options = {}): Hook => {
   return async (context: HookContext) => {
 
     const params = context.params
 
-    const periods = ['1h', '24h', '7d', '30d', '1y', 'all']
-    const sensors = ['temperature', 'light', 'humidity', 'battery', 'pressure', 'all']
+    const periods = Object.values(Period).filter( value => typeof(value) === 'string' )
+    const sensors = Object.values(Sensor).filter( value => typeof(value) === 'string' )
+
+
     if ( !params || !params.query ) {
        context.result = new BadRequest('Invalid query parameters', {
         message: "no query parameters where given"

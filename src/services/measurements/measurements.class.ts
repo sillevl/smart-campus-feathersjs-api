@@ -1,5 +1,8 @@
 import { Id, NullableId, Paginated, Params, ServiceMethods } from '@feathersjs/feathers';
 import { Application } from '../../declarations';
+import database from '../../lib/measurements/database'
+
+import { Sensor, Period } from '../../lib/measurements/parameters'
 
 interface Data {}
 
@@ -15,8 +18,19 @@ export class Measurements implements ServiceMethods<Data> {
   }
 
   async get (id: Id, params?: Params): Promise<Data> {
+    const sensorType: Sensor = Number.parseInt(Sensor[params!.query!.sensor])
+    const period: Period = Number.parseInt(Period[params!.query!.period])
+    const deviceId: string = 'sensor-02'
+
+    const results = await database(deviceId, sensorType, period )
+
+    const debug = {
+      params,
+    }
+
     return {
-      id, text: `A new message with ID: ${id}!`, params
+      results,
+      debug
     };
   }
 }
