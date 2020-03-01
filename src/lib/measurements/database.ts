@@ -36,7 +36,7 @@ export default async (deviceId: string, sensorType: Sensor, period: Period = Per
         list.push('vdd')
         break
     }
-    return list.map( item => `mean("${item}")`).join(', ')
+    return list.map( item => `mean("${item}") AS ${item}`).join(', ')
   })(sensorType)
 
   const periodFilter = ( (p: Period) => {
