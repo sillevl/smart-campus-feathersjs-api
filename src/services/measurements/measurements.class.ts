@@ -9,6 +9,8 @@ interface Data {}
 interface ServiceOptions {}
 
 export class Measurements implements ServiceMethods<Data> {
+  [key: string]: any;
+
   app: Application;
   options: ServiceOptions;
 
@@ -32,5 +34,21 @@ export class Measurements implements ServiceMethods<Data> {
       results,
       debug
     };
+  }
+
+  find(params?: Params | undefined): Promise<Data | Data[] | Paginated<Data>> {
+    throw new Error("Method not implemented.");
+  }
+  create(data: Partial<Data> | Partial<Data>[], params?: Params | undefined): Promise<Data | Data[]> {
+    throw new Error("Method not implemented.");
+  }
+  update(id: NullableId, data: Data, params?: Params | undefined): Promise<Data | Data[]> {
+    throw new Error("Method not implemented.");
+  }
+  patch(id: NullableId, data: Partial<Data>, params?: Params | undefined): Promise<Data | Data[]> {
+    throw new Error("Method not implemented.");
+  }
+  remove(id: NullableId, params?: Params | undefined): Promise<Data | Data[]> {
+    throw new Error("Method not implemented.");
   }
 }
